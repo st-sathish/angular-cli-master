@@ -1,0 +1,27 @@
+.card-header{
+    background: #5A6A46;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.card{
+    margin-top:10px;
+}
+.row .card{
+    border-radius: 30px;
+    height:150px;
+    line-height:100px;
+    font-size: 18px;
+    padding-left:0;
+    font-weight: bold;
+    background: #B7B6BE;
+}
+.image{
+    height:60px;
+}
+.img-2-txt{
+    margin-top:20px;
+    line-height: 20px;
+}

@@ -1,0 +1,30 @@
+.card-header{
+    background: #455469;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+.card{
+    height: 670px;
+}
+.row .card {
+    height: 70px;
+    Width: 100%;
+    border-radius: 40px;
+margin: 5px;
+background: #B7B6BE;
+}
+.image{
+    height:40px;
+
+}
+.parent-card{
+    overflow-y: auto;
+    background: #6F778F;
+}
+.txt{
+    font-size: 20px;
+}

@@ -1,0 +1,38 @@
+.parent{
+    background-color: #3B4637;
+   
+    border-radius:0;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+.jumbotron{
+    margin:0;
+}
+.title{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+.btn{
+    background-color: #525473;
+    color:white;
+    font-weight: bold;
+}
+
+.txt-btn{
+    color: #A3A998;
+    font-size: 16px;
+    font-weight: bold;
+}
+.user-details{
+    color: #A3A998;
+    font-size: 17px;
+    font-weight: bold;
+}
+.welcm-txt{
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: bold;
+}
